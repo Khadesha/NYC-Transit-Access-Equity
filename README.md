@@ -12,9 +12,9 @@ With major gaps between high- and low-income areas, we want to include maps that
 -	Research how has the transit system expanded
 -	Research how accessible are subway public transportation based on money and location
 -	Compare transit coverage in affluent vs. low-income neighborhoods
--	Research how transit has it helped and/or harmed New York City affluent and low-income areas via job, accessibility and/or pollution 
+-	Research how transit has helped and/or harmed New York City affluent and low-income areas via job, accessibility and/or pollution 
 
 ### Results
 [storymap](https://storymaps.arcgis.com/stories/06bb21e370e740acbcf45baed88a263d)
-[presentation slides](blah blah blah),
+[presentation slides]([Katie Mskhiladz](https://onedrive.live.com/:p:/g/personal/D710ACF6384F9DC3/EUIS-3AMYHdMmYyep3vkigIBnJqmc5Inzf0xTJDabODwdw?resid=D710ACF6384F9DC3!s70fb1242600c4c77998c9ea77be48a02&ithint=file%2Cpptx&e=4%3A87b57083bccd4467bca8535bd5194052&sharingv2=true&fromShare=true&at=9&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3AvYy9ENzEwQUNGNjM4NEY5REMzL0VVSVMtM0FNWUhkTW1ZeWVwM3ZraWdJQm5KcW1jNUluemYweFRKRGFiT0R3ZHc_ZT00Ojg3YjU3MDgzYmNjZDQ0NjdiY2E4NTM1YmQ1MTk0MDUyJnNoYXJpbmd2Mj10cnVlJmZyb21TaGFyZT10cnVlJmF0PTk),
 [project scope](https://cuny620-my.sharepoint.com/:w:/g/personal/khadesha_stephenson25_myhunter_cuny_edu/EX_Q75XbqB5NpAZ0zeljCEMBzKE0HEPC3TIDSL5DbBLByQ?e=fyIzB1)
